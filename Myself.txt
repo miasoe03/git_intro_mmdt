@@ -2,3 +2,5 @@ Movie: The Intern
 Song: Blank Space
 > Myself.txt
 
+Movie: testing movie
+Song: Love story
